@@ -1,0 +1,77 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: white;
+  line-height: 30px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  color: #F8F9F9;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+.box{
+  width: 650px;
+  height: 95px;
+  text-align: center;
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.white{
+  background: #FBFCFC;
+}
+
+#headshot {
+  width: 30%;
+  float: left;
+}
+
+.box2 {
+  width: 650px;
+  height: 250px;
+  text-align: center;
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.white{
+  background: #FBFCFC;
+}
+
+.topnav {
+  background-color: #5F6A6A;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #DAF7A6;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #717D7E;
+  color: white;
+}
